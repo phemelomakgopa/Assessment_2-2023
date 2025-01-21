@@ -1,0 +1,28 @@
+SCENARIO
+The owners of Quantum Mak have approached me to create an online shopping web application for their electronics store. The store offers a wide range of electronics, including smartphones, laptops, audio equipment, and home appliances. The application must be designed to provide customers with a convenient platform to browse and purchase a wide range of electronic products. Customers should be able to add products to their shopping cart, proceed to checkout, and complete their purchase by providing shipping information.
+
+The application aims to cater to tech-savvy individuals and gadget enthusiasts, offering a user-friendly interface and a diverse range of electronics. By creating an online shopping web application, Quantum Mak can provide customers with the convenience of shopping for electronics from the comfort of their homes. It aims to reach a larger customer base and offer a seamless shopping experience. The application aims to cater to customers of all ages and backgrounds.
+
+Key functionalities of the application include browsing product categories and adding products to the shopping cart. The shopping cart allows users to manage selected items, modify quantities, and remove products. The cart is persistent, ensuring a seamless shopping experience even if users leave and return to the website. Real-time price calculations are implemented to provide updated subtotal and total cost information.
+
+The checkout process prompts customers to enter personal information for registration, shipping information, and contact details, with validation ensuring accuracy. A summary of the order is displayed, including item details, quantities, and prices. Secure payment options facilitate safe transactions. After successful checkout, customers receive order confirmation messages and emails.
+
+
+
+FUNCTIONALITY
+Product Listing:
+Display a list of products with their names, prices, and images.
+Each product should have an "Add to Cart" button.
+
+Shopping Cart:
+When a user clicks "Add to Cart," the selected product should be added to their shopping cart.
+Display the items in the shopping cart along with their quantities and total prices.
+Users should be able to update the quantities or remove items from the cart.
+The cart should persist across page refreshes.
+
+Checkout Process:
+Provide a checkout page where users can enter their personal information, shipping information and contact details.
+Validate the form inputs (e.g., ensure required fields are filled, validate email address format).
+Display a summary of the order, including the items in the cart, subtotal, and shipping cost.
+Calculate and display the total cost (subtotal + shipping).
+Upon successful checkout, display a confirmation message and clear the shopping cart. 
